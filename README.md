@@ -1,4 +1,4 @@
-# BLE_UART_to_Mac
+# BLE UART to Mac using CircuitPython
 Starter code for connect the Bluefruit UART Friend to MacOS using CircuitPython
 
 We are working with the Bluefruit UART Friend (https://www.adafruit.com/product/2479) and providing some simple code to connect the UART friend to your computer
